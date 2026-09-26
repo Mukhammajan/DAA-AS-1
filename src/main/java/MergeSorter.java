@@ -1,5 +1,3 @@
-
-
 public class MergeSorter {
     public static long comparisons = 0;
     public static int maxRecursionDepth = 0;
