@@ -1,4 +1,4 @@
-import java.util.Arrays;
+
 
 public class MergeSorter {
     public static long comparisons = 0;
