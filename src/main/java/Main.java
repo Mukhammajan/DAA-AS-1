@@ -59,7 +59,7 @@ public class Main {
 
     private static void generatePlots() {
         try {
-            File dir = new File("docs/plot");
+            File dir = new File("  ");
             if (!dir.exists()) {
                 dir.mkdirs();
             }
